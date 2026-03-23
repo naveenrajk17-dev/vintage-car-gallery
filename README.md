@@ -2,6 +2,14 @@
 
 A modern **React + Vite** web application that showcases timeless classic cars with stunning UI, detailed specifications, and community interaction.
 
+## Tech Stack
+- React.js
+- Vite
+- JavaScript
+- CSS
+
+---
+
 🌐 **Live Demo:**  
 https://naveenrajk17-dev.github.io/vintage-car-gallery/
 
