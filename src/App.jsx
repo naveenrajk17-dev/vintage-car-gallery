@@ -32,6 +32,7 @@ const AppContent = () => {
 function App() {
   return (
     <BrowserRouter
+      basename="/vintage-car-gallery"
       future={{
         v7_startTransition: true,
         v7_relativeSplatPath: true,
