@@ -1,16 +1,34 @@
-# React + Vite
+# 🚗 Vintage Car Gallery
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern **React + Vite** web application that showcases timeless classic cars with stunning UI, detailed specifications, and community interaction.
 
-Currently, two official plugins are available:
+🌐 **Live Demo:**  
+https://naveenrajk17-dev.github.io/vintage-car-gallery/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 🏎️ Beautiful vintage car gallery
+- 📄 Detailed car specification pages
+- 👤 User authentication (Login / Signup)
+- 📤 Upload your own vintage cars
+- ⭐ Community reviews and ratings
+- 💾 Data stored using LocalStorage
+- 🎨 Smooth animations with Framer Motion
+- 📱 Fully responsive design
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- **Frontend:** React, Vite
+- **Styling:** Tailwind CSS
+- **Routing:** React Router DOM
+- **Animations:** Framer Motion
+- **State Management:** Context API
+- **Storage:** LocalStorage
+
+---
+
+## 📁 Project Structure
